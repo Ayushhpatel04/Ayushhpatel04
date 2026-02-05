@@ -94,7 +94,7 @@ I bring over **2.5 years of technical experience** across data analyst internshi
 ## ⚡ Fun Fact
 <div align="center">
 
-*When I’m not training AI models, I’m in the kitchen! I currently work as a **Cook in Montreal**. I find that the precision required for a perfect recipe is exactly like the logic needed for clean code. 👨‍🍳🥘*
+*When I’m not training AI models, I’m in the kitchen! I currently work as a **Part-time Chef in Montreal**. I find that the precision required for a perfect recipe is exactly like the logic needed for clean code. 👨‍🍳🥘*
 
 </div>
 
