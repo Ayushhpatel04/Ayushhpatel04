@@ -3,6 +3,7 @@
 # Ayush Patel
 ### Data Analyst | Business Intelligence Analyst | M.S. in Applied Computer Science
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Web-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://v0-ayushpatel.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushpatel04/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayushhpatel04)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aayushhpatel04@gmail.com)
@@ -63,25 +64,44 @@ I bring over **2.5 years of technical experience** across data analyst internshi
 
 ## 🚀 Featured Projects
 
-### 🤖 Adaptive Multi-Agent Chatbot System
+### 🤖 [Adaptive Multi-Agent Chatbot System](https://github.com/Ayushhpatel04/Adaptive-MultiAgent-Chatbot-System)
 *Engineered a modular multi-agent system (General, AI, Admissions) using dynamic routing and Reinforcement Learning.*
 * **Key Tech:** `Python`, `LangChain`, `Ollama (Mistral)`, `FastAPI`, `FAISS`, `Wikipedia API`
-* **Innovation:** Implemented a **Q-learning algorithm** to optimize LLM parameters (temperature, tokens) in real-time. Features a self-correcting feedback loop and FAISS for semantic retrieval.
+* **Innovation:** Implemented a **Q-learning algorithm** to optimize LLM parameters in real-time. Features a self-correcting feedback loop and FAISS for semantic retrieval.
 
-### 🎭 Facial Expression Recognition (CNN)
+### 🎭 [Facial Expression Recognition (CNN)](https://github.com/Ayushhpatel04/Facial-Expression-Recognition)
 *Developed a Deep Learning model to classify emotional states with high precision.*
 * **Key Tech:** `TensorFlow`, `CNN`, `OpenCV`, `Python`, `Matplotlib`
-* **Innovation:** Augmented the FER2013 dataset with 1,500+ custom-scraped images. Applied **HAAR Classifiers** and **Unsharp Masking** for preprocessing, achieving 70% accuracy using the Adam optimizer.
+* **Innovation:** Augmented the FER2013 dataset with 1,500+ custom-scraped images. Applied **HAAR Classifiers** and **Unsharp Masking** for preprocessing, achieving 70% accuracy.
+
+### 💰 [Bank Loan Performance Analysis](https://github.com/Ayushhpatel04/TD-Bank-Loan-Data-Analysis)
+*Developed a suite of 3 dashboards tracking loan portfolio performance for a major financial institution.*
+* **Key Tech:** `SQL`, `Power BI`, `DAX`, `Excel`, `Data Modeling`
+* **Impact:** Engineered complex SQL queries and DAX measures for real-time KPI monitoring. Achieved visibility into 'Good' vs 'Bad' loan segmentation by DTI ratios and trend forecasting.
+
+### 🎮 [Warzone: Multi-Agent Strategy Game Engine](https://github.com/Ayushhpatel04/Warzone-Game-APP-U12)
+*Built a 10,000+ LOC game engine utilizing MVC pattern and SOLID principles for modularity.*
+* **Key Tech:** `Java`, `JUnit 5`, `Maven`, `Java Swing`, `Design Patterns (Strategy, Observer, Builder)`
+* **Innovation:** Engineered 4 distinct AI player modes using the Strategy Pattern. Integrated custom Map Editor and Java Serialization for robust state management.
 
 ---
 
 ## 💼 Professional Experience
 
-| Role | Organization | Period |
-| :--- | :--- | :--- |
-| **Teaching Assistant** | Concordia University | 2024 - 2025 |
-| **Data Analyst Intern** | Vinrox Technologies | 2022 - 2023 |
-| **Data Analyst Intern** | BarodaWeb | 2021 - 2022 |
+### 🎓 Teaching Assistant | Concordia University
+*Montreal, Canada | 2024 – 2025*
+* Mentored 100+ undergraduate students in **Database Management Systems (COMP 353)** and **Data Structures & Algorithms**.
+* Facilitated technical labs focused on SQL optimization, relational algebra, and complex algorithm analysis.
+
+### 📊 Data Analyst Intern | Vinrox Technologies
+*India | 2022 – 2023*
+* Streamlined data collection processes and developed automated reporting dashboards using **Power BI** and **Excel**.
+* Performed exploratory data analysis (EDA) to identify manufacturing bottlenecks, improving operational efficiency by 15%.
+
+### 💻 Data Analyst Intern | BarodaWeb
+*India | 2021 – 2022*
+* Assisted in managing relational databases and performing data validation for client-facing web applications.
+* Leveraged **SQL** and **Python** to clean and transform raw data into actionable business reports.
 
 ---
 
