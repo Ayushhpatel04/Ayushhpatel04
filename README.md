@@ -4,21 +4,10 @@
 
 **Data Analyst · Data Engineer · BI Developer**
 
-[Portfolio](https://v0-ayushpatel.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/ayushpatel04/) · [GitHub](https://github.com/Ayushhpatel04) · ayushpatel1042001@gmail.com
 
-</div>
 
----
 
-## About
 
-Data Analyst with 3+ years of experience working across the full data lifecycle — ETL pipeline development, large-scale data transformation, predictive modelling, and business intelligence. Currently at OpenText in Toronto, where I work with 10M+ record datasets, build churn prediction models using Python and Scikit-learn, and develop automated reporting workflows in SQL.
-
-My background combines hands-on data engineering work at Tech Mahindra with applied analytics at Concordia University and OpenText. I hold a Master's in Applied Computer Science (Data Analytics & AI) from Concordia University, and I'm certified in Power BI (PL-300) and Azure Fundamentals (AZ-900).
-
-Based in Montreal, QC. Open to Data Analyst, Data Engineer, Business Analyst, and BI Developer roles across Canada.
-
----
 
 ## Technical Skills
 
@@ -48,36 +37,8 @@ Agile · Scrum · SDLC · Data Governance · Data Quality Management · A/B Test
 
 ---
 
-## Experience
 
-**Data Analyst — OpenText** · Toronto, ON · Sep 2025 – Present
 
-- Performed large-scale data profiling and trend analysis across multiple systems, contributing to a 22% improvement in reporting reliability
-- Analyzed and transformed 10M+ records using SQL and Python, improving data accuracy and enabling faster business reporting
-- Reduced manual data extraction and preparation effort by 50% through reusable SQL scripts and automated reporting-ready data layers
-- Built predictive models using Scikit-learn and Pandas to forecast customer churn and purchasing behavior, improving retention by 22% and increasing campaign ROI by 30%
-
----
-
-**Teaching Assistant — Concordia University** · Montreal, QC · Jan 2024 – Sep 2025
-
-Courses: OOP · Data Structures & Algorithms · Databases
-
-- Used Python (Pandas, NumPy) to clean, transform, and validate raw datasets, reducing manual data preparation effort by 45%
-- Automated recurring data cleansing and transformation workflows, saving 30+ hours per month across reporting cycles
-- Worked with Snowflake and BigQuery to process high-volume cloud-hosted datasets for cross-functional teams
-- Developed cloud-based analytical datasets that improved query efficiency by 32%
-
----
-
-**Data Analyst — Tech Mahindra** · India · Aug 2020 – Jul 2023
-
-- Supported migration of on-premise analytical workflows into cloud-based environments, improving scalability and reporting efficiency
-- Improved overall data quality by 30% through validation rules, reconciliation checks, and source-to-target consistency controls
-- Built and maintained ETL/ELT pipelines for multi-source data ingestion, reducing preparation turnaround time by 40%
-- Conducted A/B testing analysis on product and user journey changes, contributing to a 12% improvement in conversion rate
-
----
 
 ## Projects
 
